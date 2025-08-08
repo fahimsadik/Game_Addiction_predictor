@@ -1,4 +1,4 @@
-## Gaming Addiction and Health Prediction
+# Game Addiction Predictor
 This repository contains a machine learning project developed for a university course on Artificial Intelligence and Machine Learning. The project's goal is to analyze a dataset to predict gaming addiction and its potential impact on an individual's mental and physical health. It includes a user-friendly questionnaire-based application to make real-time predictions.
 
 # Features
